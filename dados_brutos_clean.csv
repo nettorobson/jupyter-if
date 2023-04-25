@@ -1,0 +1,660 @@
+id,parcela,placa,familia,especie,especie_sem_autor,nome_comum,habito,ameaca_flora_brasileira,endemismo,cap,ht,coord_x,coord_y
+1,1,2526,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,19,5.5,729754.298149509,6959150.26262837
+2,1,2512,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,17,6,729754.298149509,6959150.26262837
+3,1,2513,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,16,7,729754.298149509,6959150.26262837
+4,1,2514,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,13.5,4,729754.298149509,6959150.26262837
+5,1,2515,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,28,4.5,729754.298149509,6959150.26262837
+6,1,2516,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,21,4.5,729754.298149509,6959150.26262837
+7,1,2517,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,15,5,729754.298149509,6959150.26262837
+8,1,2518,LAURACEAE,Nectandra oppositifolia Nees,Nectandra oppositifolia,Canela-ferrugem,Árvore,NE,não é endêmica do Brasil,21,5.5,729754.298149509,6959150.26262837
+9,1,2520,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,38,6,729754.298149509,6959150.26262837
+10,1,2519,MELASTOMATACEAE,Tibouchina pulchra Cogn.,Tibouchina pulchra,Quaresmeira,Árvore,NE,é endêmica do Brasil,16,4,729754.298149509,6959150.26262837
+11,2,2992,VERBENACEAE,Citharexylum myrianthum Cham.,Citharexylum myrianthum,Tucaneira,Árvore,NE,não é endêmica do Brasil,63,10,729754.076192028,6959201.76047198
+12,2,2523,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,14,4,729754.076192028,6959201.76047198
+13,2,2522,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,21,4.5,729754.076192028,6959201.76047198
+14,2,2525,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,17,3,729754.076192028,6959201.76047198
+15,2,2524,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,17,4,729754.076192028,6959201.76047198
+16,2,2993,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,15,2,729754.076192028,6959201.76047198
+17,2,2995,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,25,4.5,729754.076192028,6959201.76047198
+18,3,2982,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,19,4.5,729744.142684757,6959246.84413743
+19,3,2987,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,14,4,729744.142684757,6959246.84413743
+20,3,2979,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,18.5,6,729744.142684757,6959246.84413743
+21,3,2980,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,19,5.5,729744.142684757,6959246.84413743
+22,3,2981,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,17,5,729744.142684757,6959246.84413743
+23,3,2998,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,15,4.5,729744.142684757,6959246.84413743
+24,3,2977,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,14.5,4.5,729744.142684757,6959246.84413743
+25,3,2978,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,14,4.5,729744.142684757,6959246.84413743
+26,3,2986,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,20,5,729744.142684757,6959246.84413743
+27,3,2985,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,14,5,729744.142684757,6959246.84413743
+28,3,2984,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,17.5,5,729744.142684757,6959246.84413743
+29,3,2983,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,14.5,5,729744.142684757,6959246.84413743
+30,3,2997,ARECACEAE,Syagrus romanzoffiana (Cham.) Glassman,Syagrus romanzoffiana,Gerivá,Erva,LC,não é endêmica do Brasil,77,15,729744.142684757,6959246.84413743
+31,4,2865,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,17,5,729747.258180182,6959294.39942114
+32,4,2863,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,16.5,4.5,729747.258180182,6959294.39942114
+33,4,2864,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,13,4.5,729747.258180182,6959294.39942114
+34,4,2866,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,18,5,729747.258180182,6959294.39942114
+35,4,2973,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,15.5,4.5,729747.258180182,6959294.39942114
+36,4,2974,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,19,4.5,729747.258180182,6959294.39942114
+37,4,2853,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,28,6,729747.258180182,6959294.39942114
+38,4,2862,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,13.5,3.5,729747.258180182,6959294.39942114
+39,5,2848,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,26,6,729801.112441199,6959189.57181006
+40,5,2839,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,18,4.5,729801.112441199,6959189.57181006
+41,5,2841,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,20,5,729801.112441199,6959189.57181006
+42,5,2849,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,49,8,729801.112441199,6959189.57181006
+43,5,2840,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,20.5,6.5,729801.112441199,6959189.57181006
+44,5,2847,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,17.5,4.5,729801.112441199,6959189.57181006
+45,5,2846,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,20.5,6.5,729801.112441199,6959189.57181006
+46,5,2842,FABACEAE,Erythrina falcata Benth.,Erythrina falcata,Corticeira-da-serra,Árvore,NE,não é endêmica do Brasil,15,3,729801.112441199,6959189.57181006
+47,5,2845,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,27,6.5,729801.112441199,6959189.57181006
+48,5,2844,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,13.5,4,729801.112441199,6959189.57181006
+49,5,2854,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,13.5,4.5,729801.112441199,6959189.57181006
+50,6,2825,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,18,6,729790.677421228,6959144.53709808
+51,6,2850,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,14,5,729790.677421228,6959144.53709808
+52,6,2820,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,20,6.5,729790.677421228,6959144.53709808
+53,6,2823,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,22,6,729790.677421228,6959144.53709808
+54,6,2824,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,18,5,729790.677421228,6959144.53709808
+55,6,2822,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,15.5,6,729790.677421228,6959144.53709808
+56,6,2821,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,15,5.5,729790.677421228,6959144.53709808
+57,6,2811,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,24,5.5,729790.677421228,6959144.53709808
+58,6,2810,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,13,4.5,729790.677421228,6959144.53709808
+59,6,2812,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,14,5.5,729790.677421228,6959144.53709808
+60,6,2809,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,23.5,5,729790.677421228,6959144.53709808
+61,6,2808,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,19,5,729790.677421228,6959144.53709808
+62,6,2815,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,17,5,729790.677421228,6959144.53709808
+63,6,2814,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,29,6,729790.677421228,6959144.53709808
+64,6,2813,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,18,6,729790.677421228,6959144.53709808
+65,6,2817,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,16,4.5,729790.677421228,6959144.53709808
+66,6,2818,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,17,4.5,729790.677421228,6959144.53709808
+67,6,2819,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,16,4.5,729790.677421228,6959144.53709808
+68,7,2828,FABACEAE,Erythrina falcata Benth.,Erythrina falcata,Corticeira-da-serra,Árvore,NE,não é endêmica do Brasil,14,4,729842.376912294,6959151.67958743
+69,7,2829,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,17,6,729842.376912294,6959151.67958743
+70,7,2816,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,19,5.5,729842.376912294,6959151.67958743
+71,7,2831,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,18,7,729842.376912294,6959151.67958743
+72,7,2832,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,25,5,729842.376912294,6959151.67958743
+73,7,2830,FABACEAE,Erythrina falcata Benth.,Erythrina falcata,Corticeira-da-serra,Árvore,NE,não é endêmica do Brasil,31,7,729842.376912294,6959151.67958743
+74,7,2833,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,12.5,5,729842.376912294,6959151.67958743
+75,7,2835,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,18,5.5,729842.376912294,6959151.67958743
+76,7,2836,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,20,6,729842.376912294,6959151.67958743
+77,7,2837,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,19,5.5,729842.376912294,6959151.67958743
+78,7,2838,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,15.5,4.5,729842.376912294,6959151.67958743
+79,8,2827,BIGNONIACEAE,Handroanthus chrysotrichus (Mart. ex DC.) Mattos,Handroanthus chrysotrichus,Ipê-amarelo,Árvore,NE,não é endêmica do Brasil,39,6,729852.489917284,6959245.47951745
+80,8,2797,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,36,7,729852.489917284,6959245.47951745
+81,8,2826,FABACEAE,Inga marginata Willd.,Inga marginata,Inga marginata,Árvore,NE,não é endêmica do Brasil,40,8,729852.489917284,6959245.47951745
+82,8,2796,ARECACEAE,Syagrus romanzoffiana (Cham.) Glassman,Syagrus romanzoffiana,Gerivá,Erva,LC,não é endêmica do Brasil,90,13,729852.489917284,6959245.47951745
+83,8,2767,BIGNONIACEAE,Handroanthus chrysotrichus (Mart. ex DC.) Mattos,Handroanthus chrysotrichus,Ipê-amarelo,Árvore,NE,não é endêmica do Brasil,115,14,729852.489917284,6959245.47951745
+84,8,2807,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,33,7,729852.489917284,6959245.47951745
+85,8,2975,MYRTACEAE,Campomanesia xanthocarpa (Mart.) O.Berg,Campomanesia xanthocarpa,Guavirova,Árvore,LC,não é endêmica do Brasil,34,6,729852.489917284,6959245.47951745
+86,8,2795,ARECACEAE,Syagrus romanzoffiana (Cham.) Glassman,Syagrus romanzoffiana,Gerivá,Erva,LC,não é endêmica do Brasil,82,13,729852.489917284,6959245.47951745
+87,8,2785,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,41,10,729852.489917284,6959245.47951745
+88,8,2784,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,32,6,729852.489917284,6959245.47951745
+89,8,2794,BIGNONIACEAE,Handroanthus chrysotrichus (Mart. ex DC.) Mattos,Handroanthus chrysotrichus,Ipê-amarelo,Árvore,NE,não é endêmica do Brasil,52,11,729852.489917284,6959245.47951745
+90,9,2806,ANNONACEAE,Annona neosalicifolia H.Rainer,Annona neosalicifolia,Araticum-amarelo,Árvore,NE,não é endêmica do Brasil,13.5,4,729844.601815179,6959199.17766576
+91,9,2861,VERBENACEAE,Citharexylum myrianthum Cham.,Citharexylum myrianthum,Tucaneira,Árvore,NE,não é endêmica do Brasil,100,14,729844.601815179,6959199.17766576
+92,9,2798,ERYTHROXYLACEAE,Erythroxylum deciduum A.St.-Hil.,Erythroxylum deciduum,Cocão,Árvore,NE,não é endêmica do Brasil,17,6,729844.601815179,6959199.17766576
+93,9,2805,FABACEAE,Senna macranthera (DC. ex Collad.) H.S.Irwin & Barneby,Senna macranthera,Manduirana,Arbusto; Árvore,NE,não é endêmica do Brasil,22,5,729844.601815179,6959199.17766576
+94,9,2804,PRIMULACEAE,Myrsine coriacea (Sw.) R.Br. ex Roem. & Schult.,Myrsine coriacea,Capororóca-vermelha,Árvore,NE,não é endêmica do Brasil,15,7,729844.601815179,6959199.17766576
+95,9,2802,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,14,4,729844.601815179,6959199.17766576
+96,9,2783,ERYTHROXYLACEAE,Erythroxylum deciduum A.St.-Hil.,Erythroxylum deciduum,Cocão,Árvore,NE,não é endêmica do Brasil,13.5,4.2,729844.601815179,6959199.17766576
+97,9,2782,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,25,4.5,729844.601815179,6959199.17766576
+98,10,2754,ERYTHROXYLACEAE,Erythroxylum deciduum A.St.-Hil.,Erythroxylum deciduum,Cocão,Árvore,NE,não é endêmica do Brasil,17,7,729906.80430114,6959146.79535946
+99,10,2755,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,13.5,4,729906.80430114,6959146.79535946
+100,10,2753,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,14,4,729906.80430114,6959146.79535946
+101,10,2756,THYMELAEACEAE,Daphnopsis fasciculata (Meisn.) Nevling,Daphnopsis fasciculata,Embira,Árvore,NE,é endêmica do Brasil,13,4,729906.80430114,6959146.79535946
+102,10,2852,THYMELAEACEAE,Daphnopsis fasciculata (Meisn.) Nevling,Daphnopsis fasciculata,Embira,Árvore,NE,é endêmica do Brasil,14.5,3.5,729906.80430114,6959146.79535946
+103,10,2749,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,20,6,729906.80430114,6959146.79535946
+104,10,2751,FABACEAE,Schizolobium parahyba (Vell.) Blake,Schizolobium parahyba,Guapuruvú,Árvore,NE,não é endêmica do Brasil,144,16,729906.80430114,6959146.79535946
+105,10,2750,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,29,7,729906.80430114,6959146.79535946
+106,10,2748,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,19,6,729906.80430114,6959146.79535946
+107,10,2747,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,22,8,729906.80430114,6959146.79535946
+108,10,2746,MYRTACEAE,Campomanesia xanthocarpa (Mart.) O.Berg,Campomanesia xanthocarpa,Guavirova,Árvore,LC,não é endêmica do Brasil,43,9,729906.80430114,6959146.79535946
+109,10,2745,FABACEAE,Schizolobium parahyba (Vell.) Blake,Schizolobium parahyba,Guapuruvú,Árvore,NE,não é endêmica do Brasil,135,16,729906.80430114,6959146.79535946
+110,10,2793,ERYTHROXYLACEAE,Erythroxylum deciduum A.St.-Hil.,Erythroxylum deciduum,Cocão,Árvore,NE,não é endêmica do Brasil,19,7,729906.80430114,6959146.79535946
+111,11,2801,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,16,5,729895.911897918,6959211.90712202
+112,11,2761,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,16,5,729895.911897918,6959211.90712202
+113,11,2764,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,13,5,729895.911897918,6959211.90712202
+114,11,2770,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,14,6,729895.911897918,6959211.90712202
+115,11,2773,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,17,5,729895.911897918,6959211.90712202
+116,11,2781,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,14,5,729895.911897918,6959211.90712202
+117,11,2762,ANNONACEAE,Annona neosalicifolia H.Rainer,Annona neosalicifolia,Araticum-amarelo,Árvore,NE,não é endêmica do Brasil,37,8,729895.911897918,6959211.90712202
+118,11,2800,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,85,16,729895.911897918,6959211.90712202
+119,11,2763,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,13.5,4,729895.911897918,6959211.90712202
+120,11,2772,RUBIACEAE,Psychotria nuda (Cham. & Schltdl.) Wawra,Psychotria nuda,Flor-de-cera,Arbusto,NE,é endêmica do Brasil,12.5,4,729895.911897918,6959211.90712202
+121,11,2771,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,75,9,729895.911897918,6959211.90712202
+122,11,2760,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,43,7,729895.911897918,6959211.90712202
+123,11,2766,ARECACEAE,Syagrus romanzoffiana (Cham.) Glassman,Syagrus romanzoffiana,Gerivá,Erva,LC,não é endêmica do Brasil,90,13,729895.911897918,6959211.90712202
+124,11,2765,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,45,6,729895.911897918,6959211.90712202
+125,12,2799,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,93,17,729906.688722082,6959254.05305444
+126,12,2787,ARECACEAE,Syagrus romanzoffiana (Cham.) Glassman,Syagrus romanzoffiana,Gerivá,Erva,LC,não é endêmica do Brasil,78,13,729906.688722082,6959254.05305444
+127,12,2976,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,40,9,729906.688722082,6959254.05305444
+128,12,2859,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,43,9,729906.688722082,6959254.05305444
+129,12,2788,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,42,19,729906.688722082,6959254.05305444
+130,12,2789,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,68,19,729906.688722082,6959254.05305444
+131,12,2860,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,39,9,729906.688722082,6959254.05305444
+132,12,2791,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,85,16,729906.688722082,6959254.05305444
+133,12,2996,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,50,7,729906.688722082,6959254.05305444
+134,12,2759,MONIMIACEAE,Mollinedia schottiana (Spreng.) Perkins,Mollinedia schottiana,Pimenteira,Árvore,NE,não é endêmica do Brasil,18,6,729906.688722082,6959254.05305444
+135,12,2786,Arecaceae,Bactris setosa Mart.,Bactris setosa,Tucum,Palmeira,NE,é endêmica do Brasil,12.7,6,729906.688722082,6959254.05305444
+136,13,2735,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,18,6,729939.823688698,6959291.51184567
+137,13,2742,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,13,4,729939.823688698,6959291.51184567
+138,13,2741,FABACEAE,Andira anthelmia (Vell.) Benth.,Andira anthelmia,Andira,Árvore,NE,é endêmica do Brasil,27,11,729939.823688698,6959291.51184567
+139,13,2733,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,33,14,729939.823688698,6959291.51184567
+140,13,2737,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,46,9,729939.823688698,6959291.51184567
+141,13,2733,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,42,15,729939.823688698,6959291.51184567
+142,13,2736,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,115,18,729939.823688698,6959291.51184567
+143,13,2743,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,23,6,729939.823688698,6959291.51184567
+144,13,2744,BIGNONIACEAE,Handroanthus chrysotrichus (Mart. ex DC.) Mattos,Handroanthus chrysotrichus,Ipê-amarelo,Árvore,NE,não é endêmica do Brasil,47,7,729939.823688698,6959291.51184567
+145,13,2732,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,40,17,729939.823688698,6959291.51184567
+146,13,2734,EUPHORBIACEAE,Sapium glandulosum (L.) Morong,Sapium glandulosum,Leiteiro,Árvore,NE,não é endêmica do Brasil,15,6,729939.823688698,6959291.51184567
+147,13,2739,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,40,8,729939.823688698,6959291.51184567
+148,13,2740,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,53,14,729939.823688698,6959291.51184567
+149,13,2738,ARECACEAE,Syagrus romanzoffiana (Cham.) Glassman,Syagrus romanzoffiana,Gerivá,Erva,LC,não é endêmica do Brasil,93,15,729939.823688698,6959291.51184567
+150,13,2729,ERYTHROXYLACEAE,Erythroxylum deciduum A.St.-Hil.,Erythroxylum deciduum,Cocão,Árvore,NE,não é endêmica do Brasil,14,7,729939.823688698,6959291.51184567
+151,13,2730,ERYTHROXYLACEAE,Erythroxylum deciduum A.St.-Hil.,Erythroxylum deciduum,Cocão,Árvore,NE,não é endêmica do Brasil,15,8,729939.823688698,6959291.51184567
+152,14,2858,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,14,5.5,729960.583539282,6959254.317674
+153,14,2857,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,16,6,729960.583539282,6959254.317674
+154,14,2758,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,12.5,5,729960.583539282,6959254.317674
+155,14,2724,FABACEAE,Andira anthelmia (Vell.) Benth.,Andira anthelmia,Andira,Árvore,NE,é endêmica do Brasil,17,6,729960.583539282,6959254.317674
+156,14,2775,Urticaceae,Coussapoa microcarpa (Schott) Rizzini,Coussapoa microcarpa,Mata-pau,Árvore,NE,é endêmica do Brasil,35,14,729960.583539282,6959254.317674
+157,14,2780,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,18,5,729960.583539282,6959254.317674
+158,14,2710,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,26,7,729960.583539282,6959254.317674
+159,14,2778,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,48,14,729960.583539282,6959254.317674
+160,14,2700,BIGNONIACEAE,Handroanthus chrysotrichus (Mart. ex DC.) Mattos,Handroanthus chrysotrichus,Ipê-amarelo,Árvore,NE,não é endêmica do Brasil,19,5,729960.583539282,6959254.317674
+161,14,2774,BIGNONIACEAE,Handroanthus chrysotrichus (Mart. ex DC.) Mattos,Handroanthus chrysotrichus,Ipê-amarelo,Árvore,NE,não é endêmica do Brasil,120,19,729960.583539282,6959254.317674
+162,14,2851,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,26,5,729960.583539282,6959254.317674
+163,14,2852,Morta,Morta,Morta,Morta,-,-,-,70,8,729960.583539282,6959254.317674
+164,14,2803,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,21,4,729960.583539282,6959254.317674
+165,14,2727,ARECACEAE,Syagrus romanzoffiana (Cham.) Glassman,Syagrus romanzoffiana,Gerivá,Erva,LC,não é endêmica do Brasil,62,16,729960.583539282,6959254.317674
+166,14,2704,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,59,13,729960.583539282,6959254.317674
+167,14,2706,ARECACEAE,Syagrus romanzoffiana (Cham.) Glassman,Syagrus romanzoffiana,Gerivá,Erva,LC,não é endêmica do Brasil,45,13,729960.583539282,6959254.317674
+168,14,2716,RUBIACEAE,Psychotria mapourioides DC.,Psychotria mapourioides,Psicótria,Árvore,NE,é endêmica do Brasil,21,5,729960.583539282,6959254.317674
+169,15,2683,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,41,13,729953.956718982,6959204.11216427
+170,15,2684,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,18,5,729953.956718982,6959204.11216427
+171,15,2685,MYRTACEAE,Eugenia sp.,Eugenia sp.,Guamirim,-,-,-,65,14,729953.956718982,6959204.11216427
+172,15,2697,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,16.5,6,729953.956718982,6959204.11216427
+173,15,2686,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,57,17,729953.956718982,6959204.11216427
+174,15,2688,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,42,13,729953.956718982,6959204.11216427
+175,15,2689,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,31,9,729953.956718982,6959204.11216427
+176,15,2690,MONIMIACEAE,Mollinedia schottiana (Spreng.) Perkins,Mollinedia schottiana,Pimenteira,Árvore,NE,não é endêmica do Brasil,13.5,8,729953.956718982,6959204.11216427
+177,15,2691,Morta,Morta,Morta,Morta,-,-,-,41,17,729953.956718982,6959204.11216427
+178,15,2693,LAURACEAE,Endlicheria paniculata (Spreng.) J.F.Macbr.,Endlicheria paniculata,Canela-frade,Arbusto; Árvore,NE,não é endêmica do Brasil,35,12,729953.956718982,6959204.11216427
+179,15,2694,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,16,6,729953.956718982,6959204.11216427
+180,15,2695,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,13.5,3,729953.956718982,6959204.11216427
+181,15,2696,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,22,4,729953.956718982,6959204.11216427
+182,15,2723,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,22,7,729953.956718982,6959204.11216427
+183,15,2697,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,29,13,729953.956718982,6959204.11216427
+184,15,2698,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,14.5,5,729953.956718982,6959204.11216427
+185,15,2711,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,76,17,729953.956718982,6959204.11216427
+186,15,2712,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,33,8,729953.956718982,6959204.11216427
+187,15,2726,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,20,8,729953.956718982,6959204.11216427
+188,15,2699,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,43,17,729953.956718982,6959204.11216427
+189,15,2722,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,22,9,729953.956718982,6959204.11216427
+190,15,2777,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,31,13,729953.956718982,6959204.11216427
+191,15,2714,ERYTHROXYLACEAE,Erythroxylum deciduum A.St.-Hil.,Erythroxylum deciduum,Cocão,Árvore,NE,não é endêmica do Brasil,15,8,729953.956718982,6959204.11216427
+192,15,2713,LAURACEAE,Nectandra oppositifolia Nees,Nectandra oppositifolia,Canela-ferrugem,Árvore,NE,não é endêmica do Brasil,100,20,729953.956718982,6959204.11216427
+193,16,2682,MYRTACEAE,Eugenia sp.,Eugenia sp.,Guamirim,-,-,-,78,16,729950.796337721,6959151.5690688
+194,16,2621,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,130,21,729950.796337721,6959151.5690688
+195,16,2718,LAURACEAE,Endlicheria paniculata (Spreng.) J.F.Macbr.,Endlicheria paniculata,Canela-frade,Arbusto; Árvore,NE,não é endêmica do Brasil,62,14,729950.796337721,6959151.5690688
+196,16,2721,RUTACEAE,Zanthoxylum rhoifolium Lam.,Zanthoxylum rhoifolium,Mamica-de-cadela,Árvore,NE,não é endêmica do Brasil,16,6,729950.796337721,6959151.5690688
+197,16,2725,PIPERACEAE,Piper gaudichaudianum Kunth,Piper gaudichaudianum,jaborandi,Arbusto,NE,não é endêmica do Brasil,14,4,729950.796337721,6959151.5690688
+198,16,2720,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,60,9,729950.796337721,6959151.5690688
+199,16,2680,ANNONACEAE,Annona neosalicifolia H.Rainer,Annona neosalicifolia,Araticum-amarelo,Árvore,NE,não é endêmica do Brasil,56,10,729950.796337721,6959151.5690688
+200,17,2562,Morta,Morta,Morta,Morta,-,-,-,36,4.5,730003.078032053,6959150.20082453
+201,17,2563,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,31,8,730003.078032053,6959150.20082453
+202,17,2564,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,46,10,730003.078032053,6959150.20082453
+203,17,3330,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,45,13,730003.078032053,6959150.20082453
+204,17,2561,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,16,4.5,730003.078032053,6959150.20082453
+205,17,2560,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,20,9,730003.078032053,6959150.20082453
+206,17,2559,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,64,17,730003.078032053,6959150.20082453
+207,17,2558,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,47,17,730003.078032053,6959150.20082453
+208,17,3331,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,31,9,730003.078032053,6959150.20082453
+209,17,3383,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,34,9,730003.078032053,6959150.20082453
+210,17,2557,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,64,17,730003.078032053,6959150.20082453
+211,17,2556,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,38,17,730003.078032053,6959150.20082453
+212,17,2549,ANNONACEAE,Annona neosalicifolia H.Rainer,Annona neosalicifolia,Araticum-amarelo,Árvore,NE,não é endêmica do Brasil,40,13,730003.078032053,6959150.20082453
+213,17,2550,LAURACEAE,Endlicheria paniculata (Spreng.) J.F.Macbr.,Endlicheria paniculata,Canela-frade,Arbusto; Árvore,NE,não é endêmica do Brasil,24,13,730003.078032053,6959150.20082453
+214,17,2555,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,78,17,730003.078032053,6959150.20082453
+215,17,2554,MYRTACEAE,Eugenia sp.,Eugenia sp.,Guamirim,-,-,-,40,15,730003.078032053,6959150.20082453
+216,17,2552,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,33,9,730003.078032053,6959150.20082453
+217,17,2553,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,23.5,6,730003.078032053,6959150.20082453
+218,17,2551,LAURACEAE,Endlicheria paniculata (Spreng.) J.F.Macbr.,Endlicheria paniculata,Canela-frade,Arbusto; Árvore,NE,não é endêmica do Brasil,29,12,730003.078032053,6959150.20082453
+219,18,2566,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,32,8,730021.450721289,6959502.49718699
+220,18,2567,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,46,6,730021.450721289,6959502.49718699
+221,18,2569,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,25,6,730021.450721289,6959502.49718699
+222,18,2565,THYMELAEACEAE,Daphnopsis fasciculata (Meisn.) Nevling,Daphnopsis fasciculata,Embira,Árvore,NE,é endêmica do Brasil,13,2,730021.450721289,6959502.49718699
+223,18,2543,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,31,7,730021.450721289,6959502.49718699
+224,18,2568,MELASTOMATACEAE,Tibouchina pulchra Cogn.,Tibouchina pulchra,Quaresmeira,Árvore,NE,é endêmica do Brasil,15,4,730021.450721289,6959502.49718699
+225,19,2537,ARECACEAE,Syagrus romanzoffiana (Cham.) Glassman,Syagrus romanzoffiana,Gerivá,Erva,LC,não é endêmica do Brasil,110,11,730058.807591991,6959493.48229084
+226,19,2540,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,18,4.5,730058.807591991,6959493.48229084
+227,19,2539,THYMELAEACEAE,Daphnopsis fasciculata (Meisn.) Nevling,Daphnopsis fasciculata,Embira,Árvore,NE,é endêmica do Brasil,16,2.5,730058.807591991,6959493.48229084
+228,19,2538,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,57,7,730058.807591991,6959493.48229084
+229,20,2547,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,38,6,730099.519353634,6959491.99815966
+230,20,2546,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,75,7,730099.519353634,6959491.99815966
+231,20,2715,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,16,6,730099.519353634,6959491.99815966
+232,21,2574,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,23,4.5,730091.057948221,6959446.81572549
+233,21,2575,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,40,5,730091.057948221,6959446.81572549
+234,21,2529,PRIMULACEAE,Myrsine coriacea (Sw.) R.Br. ex Roem. & Schult.,Myrsine coriacea,Capororóca-vermelha,Árvore,NE,não é endêmica do Brasil,19,6,730091.057948221,6959446.81572549
+235,21,2576,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,56,7,730091.057948221,6959446.81572549
+236,21,2577,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,34,7,730091.057948221,6959446.81572549
+237,21,2533,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,12.5,4,730091.057948221,6959446.81572549
+238,21,2532,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,20,4,730091.057948221,6959446.81572549
+239,21,2530,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,33,6,730091.057948221,6959446.81572549
+240,21,2531,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,23,6,730091.057948221,6959446.81572549
+241,21,2528,LAURACEAE,Nectandra oppositifolia Nees,Nectandra oppositifolia,Canela-ferrugem,Árvore,NE,não é endêmica do Brasil,15,4,730091.057948221,6959446.81572549
+242,21,2527,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,22,6,730091.057948221,6959446.81572549
+243,21,2580,MELASTOMATACEAE,Tibouchina pulchra Cogn.,Tibouchina pulchra,Quaresmeira,Árvore,NE,é endêmica do Brasil,18,5,730091.057948221,6959446.81572549
+244,22,2648,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,13,5,730042.037964975,6959448.17849666
+245,22,2584,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,13,4,730042.037964975,6959448.17849666
+246,22,2582,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,28,7,730042.037964975,6959448.17849666
+247,22,2579,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,38,9,730042.037964975,6959448.17849666
+248,22,2578,EUPHORBIACEAE,Sapium glandulosum (L.) Morong,Sapium glandulosum,Leiteiro,Árvore,NE,não é endêmica do Brasil,18,6,730042.037964975,6959448.17849666
+249,22,2647,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,15,6,730042.037964975,6959448.17849666
+250,22,2646,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,23,7,730042.037964975,6959448.17849666
+251,22,2645,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,27,7,730042.037964975,6959448.17849666
+252,22,2651,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,13,4,730042.037964975,6959448.17849666
+253,22,2679,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,18,6.5,730042.037964975,6959448.17849666
+254,22,2649,Morta,Morta,Morta,Morta,-,-,-,14,5,730042.037964975,6959448.17849666
+255,22,2652,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,24,7,730042.037964975,6959448.17849666
+256,22,2653,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,14,6,730042.037964975,6959448.17849666
+257,22,2650,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,15,5,730042.037964975,6959448.17849666
+258,22,2660,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,58,8,730042.037964975,6959448.17849666
+259,22,2654,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,26,7,730042.037964975,6959448.17849666
+260,22,2656,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,15,7,730042.037964975,6959448.17849666
+261,22,2667,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,17,5,730042.037964975,6959448.17849666
+262,22,2542,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,19,6,730042.037964975,6959448.17849666
+263,22,2659,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,34,8,730042.037964975,6959448.17849666
+264,22,2639,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,20.5,7,730042.037964975,6959448.17849666
+265,22,2717,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,46,7,730042.037964975,6959448.17849666
+266,22,2678,PRIMULACEAE,Myrsine coriacea (Sw.) R.Br. ex Roem. & Schult.,Myrsine coriacea,Capororóca-vermelha,Árvore,NE,não é endêmica do Brasil,20,8,730042.037964975,6959448.17849666
+267,22,2641,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,25,7,730042.037964975,6959448.17849666
+268,22,2640,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,18,7,730042.037964975,6959448.17849666
+269,22,2583,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,41,9,730042.037964975,6959448.17849666
+270,22,2643,Morta,Morta,Morta,Morta,-,-,-,14,5,730042.037964975,6959448.17849666
+271,22,2644,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,37,6,730042.037964975,6959448.17849666
+272,22,2585,MELASTOMATACEAE,Tibouchina pulchra Cogn.,Tibouchina pulchra,Quaresmeira,Árvore,NE,é endêmica do Brasil,17,6,730042.037964975,6959448.17849666
+273,22,2642,MELASTOMATACEAE,Tibouchina pulchra Cogn.,Tibouchina pulchra,Quaresmeira,Árvore,NE,é endêmica do Brasil,17,7,730042.037964975,6959448.17849666
+274,23,2731,MELASTOMATACEAE,Miconia cinnamomifolia (DC.) Naudin,Miconia cinnamomifolia,Pixiricão,Árvore,NE,é endêmica do Brasil,13,4,729991.726264833,6959465.03004311
+275,23,2719,ARECACEAE,Syagrus romanzoffiana (Cham.) Glassman,Syagrus romanzoffiana,Gerivá,Erva,LC,não é endêmica do Brasil,68,13,729991.726264833,6959465.03004311
+276,23,2658,BIGNONIACEAE,Handroanthus chrysotrichus (Mart. ex DC.) Mattos,Handroanthus chrysotrichus,Ipê-amarelo,Árvore,NE,não é endêmica do Brasil,47,12,729991.726264833,6959465.03004311
+277,23,2779,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,41,12,729991.726264833,6959465.03004311
+278,23,2702,MELASTOMATACEAE,Tibouchina pulchra Cogn.,Tibouchina pulchra,Quaresmeira,Árvore,NE,é endêmica do Brasil,22,4,729991.726264833,6959465.03004311
+279,23,2703,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,17,5,729991.726264833,6959465.03004311
+280,23,2708,MELASTOMATACEAE,Tibouchina pulchra Cogn.,Tibouchina pulchra,Quaresmeira,Árvore,NE,é endêmica do Brasil,13,4,729991.726264833,6959465.03004311
+281,23,2710,MELASTOMATACEAE,Tibouchina pulchra Cogn.,Tibouchina pulchra,Quaresmeira,Árvore,NE,é endêmica do Brasil,17,6,729991.726264833,6959465.03004311
+282,23,2677,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,14,3,729991.726264833,6959465.03004311
+283,23,2673,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,32,5,729991.726264833,6959465.03004311
+284,23,2707,MELASTOMATACEAE,Tibouchina pulchra Cogn.,Tibouchina pulchra,Quaresmeira,Árvore,NE,é endêmica do Brasil,13.5,5,729991.726264833,6959465.03004311
+285,23,2674,MELASTOMATACEAE,Tibouchina pulchra Cogn.,Tibouchina pulchra,Quaresmeira,Árvore,NE,é endêmica do Brasil,37,7,729991.726264833,6959465.03004311
+286,24,2666,VERBENACEAE,Citharexylum myrianthum Cham.,Citharexylum myrianthum,Tucaneira,Árvore,NE,não é endêmica do Brasil,53,14,730001.203942195,6959419.40038084
+287,24,2670,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,12.5,5,730001.203942195,6959419.40038084
+288,24,2669,MELASTOMATACEAE,Tibouchina pulchra Cogn.,Tibouchina pulchra,Quaresmeira,Árvore,NE,é endêmica do Brasil,13,5,730001.203942195,6959419.40038084
+289,24,2668,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,27,6,730001.203942195,6959419.40038084
+290,24,2667,MELASTOMATACEAE,Tibouchina pulchra Cogn.,Tibouchina pulchra,Quaresmeira,Árvore,NE,é endêmica do Brasil,18,4,730001.203942195,6959419.40038084
+291,24,2663,MELASTOMATACEAE,Tibouchina pulchra Cogn.,Tibouchina pulchra,Quaresmeira,Árvore,NE,é endêmica do Brasil,14,4,730001.203942195,6959419.40038084
+292,24,2665,THYMELAEACEAE,Daphnopsis fasciculata (Meisn.) Nevling,Daphnopsis fasciculata,Embira,Árvore,NE,é endêmica do Brasil,14.5,3,730001.203942195,6959419.40038084
+293,24,2541,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,56,13,730001.203942195,6959419.40038084
+294,24,2664,ASTERACEAE,Vernonia sp.,Vernonia sp.,Vassoura,Árvore,-,-,27,8,730001.203942195,6959419.40038084
+295,24,2662,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,38,5,730001.203942195,6959419.40038084
+296,25,2628,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,12.5,3,730041.56586435,6959396.63814715
+297,25,2661,MELASTOMATACEAE,Tibouchina pulchra Cogn.,Tibouchina pulchra,Quaresmeira,Árvore,NE,é endêmica do Brasil,13.5,4,730041.56586435,6959396.63814715
+298,25,2627,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,42,8,730041.56586435,6959396.63814715
+299,25,2633,MELASTOMATACEAE,Tibouchina pulchra Cogn.,Tibouchina pulchra,Quaresmeira,Árvore,NE,é endêmica do Brasil,14.5,4,730041.56586435,6959396.63814715
+300,25,2638,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,14,7,730041.56586435,6959396.63814715
+301,25,2636,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,23,4.5,730041.56586435,6959396.63814715
+302,25,2635,ARECACEAE,Syagrus romanzoffiana (Cham.) Glassman,Syagrus romanzoffiana,Gerivá,Erva,LC,não é endêmica do Brasil,43,6,730041.56586435,6959396.63814715
+303,25,2675,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,16,6,730041.56586435,6959396.63814715
+304,25,2629,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,99,10,730041.56586435,6959396.63814715
+305,25,2672,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,21,4,730041.56586435,6959396.63814715
+306,25,2631,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,13,4,730041.56586435,6959396.63814715
+307,25,2632,MELASTOMATACEAE,Tibouchina pulchra Cogn.,Tibouchina pulchra,Quaresmeira,Árvore,NE,é endêmica do Brasil,16,3,730041.56586435,6959396.63814715
+308,25,2634,MELASTOMATACEAE,Tibouchina pulchra Cogn.,Tibouchina pulchra,Quaresmeira,Árvore,NE,é endêmica do Brasil,20,5,730041.56586435,6959396.63814715
+309,26,2535,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,20,5,730090.059650721,6959396.2275262
+310,26,2572,ANNONACEAE,Annona neosalicifolia H.Rainer,Annona neosalicifolia,Araticum-amarelo,Árvore,NE,não é endêmica do Brasil,53,11,730090.059650721,6959396.2275262
+311,26,2620,MELASTOMATACEAE,Tibouchina pulchra Cogn.,Tibouchina pulchra,Quaresmeira,Árvore,NE,é endêmica do Brasil,18,4,730090.059650721,6959396.2275262
+312,26,2534,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,13.5,4.5,730090.059650721,6959396.2275262
+313,26,2536,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,17,3,730090.059650721,6959396.2275262
+314,26,2570,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,36,7,730090.059650721,6959396.2275262
+315,26,2571,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,63,9,730090.059650721,6959396.2275262
+316,26,2573,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,17,4,730090.059650721,6959396.2275262
+317,26,2586,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,20,8,730090.059650721,6959396.2275262
+318,26,2627,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,22,7,730090.059650721,6959396.2275262
+319,26,2587,Morta,Morta,Morta,Morta,-,-,-,16,1.6,730090.059650721,6959396.2275262
+320,26,2616,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,14,5,730090.059650721,6959396.2275262
+321,26,2592,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,17,4,730090.059650721,6959396.2275262
+322,26,2618,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,31,6,730090.059650721,6959396.2275262
+323,26,2792,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,25,7,730090.059650721,6959396.2275262
+324,26,2619,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,24,5,730090.059650721,6959396.2275262
+325,26,2676,LAURACEAE,Ocotea pulchella (Nees & Mart.) Mez,Ocotea pulchella,Canela-lageana,árvore,LC,não é endêmica do Brasil,16.5,4,730090.059650721,6959396.2275262
+326,26,2548,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,34,8,730090.059650721,6959396.2275262
+327,26,2621,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,58,12,730090.059650721,6959396.2275262
+328,26,2622,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,20,5,730090.059650721,6959396.2275262
+329,26,2623,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,26,8,730090.059650721,6959396.2275262
+330,26,2626,Morta,Morta,Morta,Morta,-,-,-,47,3.5,730090.059650721,6959396.2275262
+331,26,2591,LAURACEAE,Endlicheria paniculata (Spreng.) J.F.Macbr.,Endlicheria paniculata,Canela-frade,Arbusto; Árvore,NE,não é endêmica do Brasil,13,5,730090.059650721,6959396.2275262
+332,26,2625,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,22,6,730090.059650721,6959396.2275262
+333,26,2624,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,26,6,730090.059650721,6959396.2275262
+334,26,2590,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,16,6,730090.059650721,6959396.2275262
+335,27,2611,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,41,8,730056.463087752,6959355.2856933
+336,27,2610,MYRTACEAE,Eugenia sp.,Eugenia sp.,Guamirim,-,-,-,36,6,730056.463087752,6959355.2856933
+337,27,2589,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,64,13,730056.463087752,6959355.2856933
+338,27,2588,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,26,8,730056.463087752,6959355.2856933
+339,27,2609,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,27,6,730056.463087752,6959355.2856933
+340,27,2608,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,47,12,730056.463087752,6959355.2856933
+341,27,2607,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,53,13,730056.463087752,6959355.2856933
+342,27,2606,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,25,6,730056.463087752,6959355.2856933
+343,27,2605,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,55,9,730056.463087752,6959355.2856933
+344,27,2604,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,26,9,730056.463087752,6959355.2856933
+345,27,2603,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,48,10,730056.463087752,6959355.2856933
+346,27,2602,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,54,13,730056.463087752,6959355.2856933
+347,27,2601,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,28,9,730056.463087752,6959355.2856933
+348,27,2600,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,19,6,730056.463087752,6959355.2856933
+349,27,2593,MYRTACEAE,Eugenia sp.,Eugenia sp.,Guamirim,-,-,-,23,7,730056.463087752,6959355.2856933
+350,27,2599,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,36,10,730056.463087752,6959355.2856933
+351,27,2697,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,32,8,730056.463087752,6959355.2856933
+352,27,2596,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,17,7,730056.463087752,6959355.2856933
+353,27,2594,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,15.5,6,730056.463087752,6959355.2856933
+354,28,2615,MELASTOMATACEAE,Tibouchina pulchra Cogn.,Tibouchina pulchra,Quaresmeira,Árvore,NE,é endêmica do Brasil,16.5,4,730004.319423051,6959374.61057268
+355,28,2614,MELASTOMATACEAE,Tibouchina pulchra Cogn.,Tibouchina pulchra,Quaresmeira,Árvore,NE,é endêmica do Brasil,12.5,3.5,730004.319423051,6959374.61057268
+356,28,2613,MELASTOMATACEAE,Tibouchina pulchra Cogn.,Tibouchina pulchra,Quaresmeira,Árvore,NE,é endêmica do Brasil,18,4,730004.319423051,6959374.61057268
+357,28,2612,MYRTACEAE,Myrcia sp.,Myrcia sp.,Guamirim,-,-,-,15.5,4,730004.319423051,6959374.61057268
+358,28,2671,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,66,9,730004.319423051,6959374.61057268
+359,29,3483,FABACEAE,Andira anthelmia (Vell.) Benth.,Andira anthelmia,Andira,Árvore,NE,é endêmica do Brasil,20.5,4.5,729971.461611936,6959328.22262073
+360,29,3487,MONIMIACEAE,Mollinedia schottiana (Spreng.) Perkins,Mollinedia schottiana,Pimenteira,Árvore,NE,não é endêmica do Brasil,15,5,729971.461611936,6959328.22262073
+361,29,3489,MELASTOMATACEAE,Tibouchina pulchra Cogn.,Tibouchina pulchra,Quaresmeira,Árvore,NE,é endêmica do Brasil,13,4,729971.461611936,6959328.22262073
+362,29,3480,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,15,6,729971.461611936,6959328.22262073
+363,29,3484,Morta,Morta,Morta,Morta,-,-,-,25,4,729971.461611936,6959328.22262073
+364,29,3485,LAURACEAE,Nectandra oppositifolia Nees,Nectandra oppositifolia,Canela-ferrugem,Árvore,NE,não é endêmica do Brasil,25,6,729971.461611936,6959328.22262073
+365,29,3486,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,64,11,729971.461611936,6959328.22262073
+366,29,3488,LAURACEAE,Endlicheria paniculata (Spreng.) J.F.Macbr.,Endlicheria paniculata,Canela-frade,Arbusto; Árvore,NE,não é endêmica do Brasil,16,5,729971.461611936,6959328.22262073
+367,29,3490,MYRTACEAE,Eugenia sp.,Eugenia sp.,Guamirim,-,-,-,15+17,5,729971.461611936,6959328.22262073
+368,29,3491,MYRTACEAE,Eugenia sp.,Eugenia sp.,Guamirim,-,-,-,14,4.5,729971.461611936,6959328.22262073
+369,29,3494,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,52,9,729971.461611936,6959328.22262073
+370,29,3495,Morta,Morta,Morta,Morta,-,-,-,23,2,729971.461611936,6959328.22262073
+371,29,3499,ARECACEAE,Syagrus romanzoffiana (Cham.) Glassman,Syagrus romanzoffiana,Gerivá,Erva,LC,não é endêmica do Brasil,44,7,729971.461611936,6959328.22262073
+372,29,3498,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,36,8,729971.461611936,6959328.22262073
+373,29,3497,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,24,7,729971.461611936,6959328.22262073
+374,29,3496,ARECACEAE,Syagrus romanzoffiana (Cham.) Glassman,Syagrus romanzoffiana,Gerivá,Erva,LC,não é endêmica do Brasil,41,7,729971.461611936,6959328.22262073
+375,29,3481,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,35,7,729971.461611936,6959328.22262073
+376,30,2595,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,13,5,730029.980559684,6959314.0440953
+377,30,3439,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,15,5.5,730029.980559684,6959314.0440953
+378,30,3445,MONIMIACEAE,Mollinedia schottiana (Spreng.) Perkins,Mollinedia schottiana,Pimenteira,Árvore,NE,não é endêmica do Brasil,19,6,730029.980559684,6959314.0440953
+379,30,3479,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,34,8,730029.980559684,6959314.0440953
+380,30,3478,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,49,10,730029.980559684,6959314.0440953
+381,30,3477,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,39,9,730029.980559684,6959314.0440953
+382,30,3432,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,23,7,730029.980559684,6959314.0440953
+383,30,3431,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,32,6,730029.980559684,6959314.0440953
+384,30,3434,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,32,7,730029.980559684,6959314.0440953
+385,30,3435,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,69,12,730029.980559684,6959314.0440953
+386,30,3433,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,59,12,730029.980559684,6959314.0440953
+387,30,3437,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,29,8,730029.980559684,6959314.0440953
+388,30,3436,LAURACEAE,Endlicheria paniculata (Spreng.) J.F.Macbr.,Endlicheria paniculata,Canela-frade,Arbusto; Árvore,NE,não é endêmica do Brasil,13,6,730029.980559684,6959314.0440953
+389,30,3438,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,34,9,730029.980559684,6959314.0440953
+390,30,3440,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,16,7,730029.980559684,6959314.0440953
+391,30,3441,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,43,11,730029.980559684,6959314.0440953
+392,30,3443,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,19,9,730029.980559684,6959314.0440953
+393,30,3442,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,46,5,730029.980559684,6959314.0440953
+394,30,3444,PRIMULACEAE,Myrsine coriacea (Sw.) R.Br. ex Roem. & Schult.,Myrsine coriacea,Capororóca-vermelha,Árvore,NE,não é endêmica do Brasil,18,6,730029.980559684,6959314.0440953
+395,30,3446,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,60,14,730029.980559684,6959314.0440953
+396,30,3448,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,30,8,730029.980559684,6959314.0440953
+397,30,3447,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,29,7,730029.980559684,6959314.0440953
+398,31,3452,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,24,9,730044.584273146,6959272.86343902
+399,31,3476,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,26,8,730044.584273146,6959272.86343902
+400,31,3450,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,55,13,730044.584273146,6959272.86343902
+401,31,3482,BIGNONIACEAE,Jacaranda puberula Cham.,Jacaranda puberula,Caroba,Árvore,LC,é endêmica do Brasil,25,10,730044.584273146,6959272.86343902
+402,31,3473,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,19,7,730044.584273146,6959272.86343902
+403,31,3475,MYRTACEAE,Myrcia splendens (Sw.) DC.,Myrcia splendens,Guamirim,Árvore,NE,não é endêmica do Brasil,16,6,730044.584273146,6959272.86343902
+404,31,3459,BIGNONIACEAE,Jacaranda puberula Cham.,Jacaranda puberula,Caroba,Árvore,LC,é endêmica do Brasil,17,2,730044.584273146,6959272.86343902
+405,31,3472,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,29,8,730044.584273146,6959272.86343902
+406,31,3470,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,16,6,730044.584273146,6959272.86343902
+407,31,3469,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,18,6,730044.584273146,6959272.86343902
+408,31,3468,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,44,11,730044.584273146,6959272.86343902
+409,31,3460,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,25,6,730044.584273146,6959272.86343902
+410,31,3467,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,46,14,730044.584273146,6959272.86343902
+411,31,3465,BIGNONIACEAE,Jacaranda puberula Cham.,Jacaranda puberula,Caroba,Árvore,LC,é endêmica do Brasil,23,11,730044.584273146,6959272.86343902
+412,31,3466,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,69,13,730044.584273146,6959272.86343902
+413,31,3464,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,60,15,730044.584273146,6959272.86343902
+414,31,3463,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,38,9,730044.584273146,6959272.86343902
+415,31,3462,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,52,9,730044.584273146,6959272.86343902
+416,32,3389,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,34,7,730043.456871704,6959231.20177486
+417,32,3388,LAURACEAE,Endlicheria paniculata (Spreng.) J.F.Macbr.,Endlicheria paniculata,Canela-frade,Arbusto; Árvore,NE,não é endêmica do Brasil,23,8,730043.456871704,6959231.20177486
+418,32,3387,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,56,14,730043.456871704,6959231.20177486
+419,32,3394,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,25,7,730043.456871704,6959231.20177486
+420,32,3395,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,53,14,730043.456871704,6959231.20177486
+421,32,3461,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,14,5,730043.456871704,6959231.20177486
+422,32,3456,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,15,6,730043.456871704,6959231.20177486
+423,32,3455,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,30,8,730043.456871704,6959231.20177486
+424,32,3454,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,16,5,730043.456871704,6959231.20177486
+425,32,3453,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,13.5,5,730043.456871704,6959231.20177486
+426,32,3484,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,25,9,730043.456871704,6959231.20177486
+427,32,3385,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,29,8,730043.456871704,6959231.20177486
+428,32,3386,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,29,9,730043.456871704,6959231.20177486
+429,32,3351,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,20,7,730043.456871704,6959231.20177486
+430,32,3390,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,30,9,730043.456871704,6959231.20177486
+431,32,3391,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,29,7,730043.456871704,6959231.20177486
+432,32,3392,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,37,8,730043.456871704,6959231.20177486
+433,32,3393,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,62,14,730043.456871704,6959231.20177486
+434,33,3334,MYRTACEAE,Eugenia sp.,Eugenia sp.,Guamirim,-,-,-,26,9,730032.643594413,6959171.31924044
+435,33,3335,MYRTACEAE,Eugenia sp.,Eugenia sp.,Guamirim,-,-,-,29,10,730032.643594413,6959171.31924044
+436,33,3336,MYRTACEAE,Eugenia sp.,Eugenia sp.,Guamirim,-,-,-,30,9,730032.643594413,6959171.31924044
+437,33,3337,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,53,9,730032.643594413,6959171.31924044
+438,33,3338,LAURACEAE,Endlicheria paniculata (Spreng.) J.F.Macbr.,Endlicheria paniculata,Canela-frade,Arbusto; Árvore,NE,não é endêmica do Brasil,36,10,730032.643594413,6959171.31924044
+439,33,3367,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,30,7,730032.643594413,6959171.31924044
+440,33,3366,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,31,10,730032.643594413,6959171.31924044
+441,33,3340,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,27,8,730032.643594413,6959171.31924044
+442,33,3339,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,93,15,730032.643594413,6959171.31924044
+443,33,3334,MYRTACEAE,Eugenia sp.,Eugenia sp.,Guamirim,-,-,-,17,6,730032.643594413,6959171.31924044
+444,33,3343,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,34,8,730032.643594413,6959171.31924044
+445,33,3345,LAURACEAE,Endlicheria paniculata (Spreng.) J.F.Macbr.,Endlicheria paniculata,Canela-frade,Arbusto; Árvore,NE,não é endêmica do Brasil,34,9,730032.643594413,6959171.31924044
+446,33,3346,Morta,Morta,Morta,Morta,-,-,-,63,4,730032.643594413,6959171.31924044
+447,34,3355,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,23,7,730024.693768872,6959111.21671335
+448,34,3353,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,46,14,730024.693768872,6959111.21671335
+449,34,3347,MYRTACEAE,Eugenia sp.,Eugenia sp.,Guamirim,-,-,-,29,7,730024.693768872,6959111.21671335
+450,34,3351,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,49,17,730024.693768872,6959111.21671335
+451,34,3350,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,54,16,730024.693768872,6959111.21671335
+452,34,3352,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,32,4,730024.693768872,6959111.21671335
+453,34,3348,SAPINDACEAE,Matayba guianensis Aubl.,Matayba guianensis,Camboatá,Árvore,NE,não é endêmica do Brasil,31,10,730024.693768872,6959111.21671335
+454,34,3365,LAURACEAE,Endlicheria paniculata (Spreng.) J.F.Macbr.,Endlicheria paniculata,Canela-frade,Arbusto; Árvore,NE,não é endêmica do Brasil,46,14,730024.693768872,6959111.21671335
+455,34,3349,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,20,13,730024.693768872,6959111.21671335
+456,34,3409,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,29,8,730024.693768872,6959111.21671335
+457,34,3364,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,15,6,730024.693768872,6959111.21671335
+458,34,3361,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,31.5,9,730024.693768872,6959111.21671335
+459,34,3362,MYRTACEAE,Eugenia sp.,Eugenia sp.,Guamirim,-,-,-,27,9,730024.693768872,6959111.21671335
+460,34,3359,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,42,9,730024.693768872,6959111.21671335
+461,34,3360,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,90,19,730024.693768872,6959111.21671335
+462,34,3358,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,38,10,730024.693768872,6959111.21671335
+463,34,3356,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,20,6,730024.693768872,6959111.21671335
+464,34,3357,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,101,17,730024.693768872,6959111.21671335
+465,35,3311,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,18.5,5,729964.625766296,6959116.55566482
+466,35,3312,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,19,4,729964.625766296,6959116.55566482
+467,35,3310,FABACEAE,Schizolobium parahyba (Vell.) Blake,Schizolobium parahyba,Guapuruvú,Árvore,NE,não é endêmica do Brasil,137,18,729964.625766296,6959116.55566482
+468,35,3307,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,98,16,729964.625766296,6959116.55566482
+469,35,3306,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,37,10,729964.625766296,6959116.55566482
+470,35,3308,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,60,16,729964.625766296,6959116.55566482
+471,35,3309,BIGNONIACEAE,Jacaranda puberula Cham.,Jacaranda puberula,Caroba,Árvore,LC,é endêmica do Brasil,18,6,729964.625766296,6959116.55566482
+472,35,3305,ANNONACEAE,Annona neosalicifolia H.Rainer,Annona neosalicifolia,Araticum-amarelo,Árvore,NE,não é endêmica do Brasil,19,8,729964.625766296,6959116.55566482
+473,35,3304,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,43,7,729964.625766296,6959116.55566482
+474,35,3303,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,97,12,729964.625766296,6959116.55566482
+475,36,3314,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,15,5,729908.246934501,6959115.61709695
+476,36,3327,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,17.4,6,729908.246934501,6959115.61709695
+477,36,3320,ANNONACEAE,Annona neosalicifolia H.Rainer,Annona neosalicifolia,Araticum-amarelo,Árvore,NE,não é endêmica do Brasil,36,8,729908.246934501,6959115.61709695
+478,36,3321,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,20,6,729908.246934501,6959115.61709695
+479,36,3322,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,24,6.5,729908.246934501,6959115.61709695
+480,36,3323,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,24,6.5,729908.246934501,6959115.61709695
+481,36,3324,THYMELAEACEAE,Daphnopsis fasciculata (Meisn.) Nevling,Daphnopsis fasciculata,Embira,Árvore,NE,é endêmica do Brasil,23,3.5,729908.246934501,6959115.61709695
+482,36,3325,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,34,6,729908.246934501,6959115.61709695
+483,36,3326,ERYTHROXYLACEAE,Erythroxylum deciduum A.St.-Hil.,Erythroxylum deciduum,Cocão,Árvore,NE,não é endêmica do Brasil,15,6,729908.246934501,6959115.61709695
+484,36,3317,ERYTHROXYLACEAE,Erythroxylum deciduum A.St.-Hil.,Erythroxylum deciduum,Cocão,Árvore,NE,não é endêmica do Brasil,21.5,7,729908.246934501,6959115.61709695
+485,36,3313,THYMELAEACEAE,Daphnopsis fasciculata (Meisn.) Nevling,Daphnopsis fasciculata,Embira,Árvore,NE,é endêmica do Brasil,35,6,729908.246934501,6959115.61709695
+486,36,3318,EUPHORBIACEAE,Sapium glandulosum (L.) Morong,Sapium glandulosum,Leiteiro,Árvore,NE,não é endêmica do Brasil,29,6,729908.246934501,6959115.61709695
+487,36,3332,FABACEAE,Schizolobium parahyba (Vell.) Blake,Schizolobium parahyba,Guapuruvú,Árvore,NE,não é endêmica do Brasil,38,7.5,729908.246934501,6959115.61709695
+488,36,3363,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,16,6.5,729908.246934501,6959115.61709695
+489,36,3328,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,22,5,729908.246934501,6959115.61709695
+490,36,3333,FABACEAE,Schizolobium parahyba (Vell.) Blake,Schizolobium parahyba,Guapuruvú,Árvore,NE,não é endêmica do Brasil,198,16,729908.246934501,6959115.61709695
+491,36,3319,EUPHORBIACEAE,Sapium glandulosum (L.) Morong,Sapium glandulosum,Leiteiro,Árvore,NE,não é endêmica do Brasil,14.5,3,729908.246934501,6959115.61709695
+492,36,3315,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,21,7,729908.246934501,6959115.61709695
+493,36,3316,APOCYNACEAE,Tabernaemontana catharinensis A.DC.,Tabernaemontana catharinensis,Cata-vento,Árvore,NE,não é endêmica do Brasil,27,6,729908.246934501,6959115.61709695
+494,37,3492,Morta,Morta,Morta,Morta,-,-,-,35,7,729999.968641657,6959205.85467095
+495,37,3293,CUNONIACEAE,Lamanonia ternata Vell.,Lamanonia ternata,Guaraperê,Árvore,NE,é endêmica do Brasil,47,15,729999.968641657,6959205.85467095
+496,37,3301,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,15.5,7,729999.968641657,6959205.85467095
+497,37,3300,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,20,11,729999.968641657,6959205.85467095
+498,37,3302,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,25,14,729999.968641657,6959205.85467095
+499,37,3299,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,36,17,729999.968641657,6959205.85467095
+500,37,3296,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,32,10,729999.968641657,6959205.85467095
+501,37,3414,LAURACEAE,Endlicheria paniculata (Spreng.) J.F.Macbr.,Endlicheria paniculata,Canela-frade,Arbusto; Árvore,NE,não é endêmica do Brasil,18,8,729999.968641657,6959205.85467095
+502,37,3415,FABACEAE,Mimosa bimucronata (DC.) Kuntze,Mimosa bimucronata,Maricá,Arbusto; Árvore,NE,não é endêmica do Brasil,62,17,729999.968641657,6959205.85467095
+503,37,3416,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,25,13,729999.968641657,6959205.85467095
+504,37,3297,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,45,14,729999.968641657,6959205.85467095
+505,37,3298,FABACEAE,Muellera campestris (Mart. ex Benth.) M.J. Silva & A.M.G. Azevedo,Muellera campestris,Rabo-de-bugio,Árvore,NE,não é endêmica do Brasil,20,8,729999.968641657,6959205.85467095
+506,37,3418,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,36,13,729999.968641657,6959205.85467095
+507,37,3417,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,29,9,729999.968641657,6959205.85467095
+508,37,3420,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,29,13,729999.968641657,6959205.85467095
+509,37,3458,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,34,14,729999.968641657,6959205.85467095
+510,37,3419,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,17,10,729999.968641657,6959205.85467095
+511,37,3421,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,15,7,729999.968641657,6959205.85467095
+512,37,3422,MYRTACEAE,Eugenia sp.,Eugenia sp.,Guamirim,-,-,-,19,7,729999.968641657,6959205.85467095
+513,37,3423,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,24,13,729999.968641657,6959205.85467095
+514,37,3400,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,15,6,729999.968641657,6959205.85467095
+515,37,3457,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,56,15,729999.968641657,6959205.85467095
+516,37,3295,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,20.5,7,729999.968641657,6959205.85467095
+517,37,3288,MONIMIACEAE,Mollinedia schottiana (Spreng.) Perkins,Mollinedia schottiana,Pimenteira,Árvore,NE,não é endêmica do Brasil,12.5,4.5,729999.968641657,6959205.85467095
+518,37,3449,SAPINDACEAE,Matayba guianensis Aubl.,Matayba guianensis,Camboatá,Árvore,NE,não é endêmica do Brasil,72,17,729999.968641657,6959205.85467095
+519,37,3289,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,27,14,729999.968641657,6959205.85467095
+520,37,3282,LAURACEAE,Nectandra oppositifolia Nees,Nectandra oppositifolia,Canela-ferrugem,Árvore,NE,não é endêmica do Brasil,149,21,729999.968641657,6959205.85467095
+521,37,3430,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,25,11,729999.968641657,6959205.85467095
+522,37,3401,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,30,12,729999.968641657,6959205.85467095
+523,38,3275,LAURACEAE,Endlicheria paniculata (Spreng.) J.F.Macbr.,Endlicheria paniculata,Canela-frade,Arbusto; Árvore,NE,não é endêmica do Brasil,18.5,7,730009.281560424,6959259.55727732
+524,38,3279,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,14,7,730009.281560424,6959259.55727732
+525,38,3276,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,47,13,730009.281560424,6959259.55727732
+526,38,3277,PRIMULACEAE,Myrsine coriacea (Sw.) R.Br. ex Roem. & Schult.,Myrsine coriacea,Capororóca-vermelha,Árvore,NE,não é endêmica do Brasil,13.5,8,730009.281560424,6959259.55727732
+527,38,3278,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,20,6,730009.281560424,6959259.55727732
+528,38,3269,Meliaceae,Guarea macrophylla Vahl,Guarea macrophylla,Café-bravo,Árvore,NE,não é endêmica do Brasil,33,9,730009.281560424,6959259.55727732
+529,38,3271,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,13.5,6,730009.281560424,6959259.55727732
+530,38,3270,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,30,9,730009.281560424,6959259.55727732
+531,38,3272,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,12.5,5,730009.281560424,6959259.55727732
+532,38,3273,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,89,17,730009.281560424,6959259.55727732
+533,38,3274,LAURACEAE,Endlicheria paniculata (Spreng.) J.F.Macbr.,Endlicheria paniculata,Canela-frade,Arbusto; Árvore,NE,não é endêmica do Brasil,48,13,730009.281560424,6959259.55727732
+534,38,3275,LAURACEAE,Endlicheria paniculata (Spreng.) J.F.Macbr.,Endlicheria paniculata,Canela-frade,Arbusto; Árvore,NE,não é endêmica do Brasil,19,6,730009.281560424,6959259.55727732
+535,38,3278,SALICACEAE,Casearia sylvestris Sw.,Casearia sylvestris,Cafezeiro-do-mato,Árvore,NE,não é endêmica do Brasil,20,5,730009.281560424,6959259.55727732
+536,38,3277,PRIMULACEAE,Myrsine coriacea (Sw.) R.Br. ex Roem. & Schult.,Myrsine coriacea,Capororóca-vermelha,Árvore,NE,não é endêmica do Brasil,14,8,730009.281560424,6959259.55727732
+537,38,3276,EUPHORBIACEAE,Alchornea glandulosa Poepp. & Endl.,Alchornea glandulosa,Tanheiro,Árvore,NE,não é endêmica do Brasil,47,13,730009.281560424,6959259.55727732
+538,38,3279,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,14,7,730009.281560424,6959259.55727732
+539,39,3287,RUBIACEAE,Psychotria vellosiana Benth.,Psychotria vellosiana,Jasmin,Árvore,NE,não é endêmica do Brasil,44,13,729899.590149306,6959809.19852909
+540,39,3284,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,45,15,729899.590149306,6959809.19852909
+541,39,3286,ASTERACEAE,Piptocarpha axillaris (Less.) Baker,Piptocarpha axillaris,Vassourão-cambará,Árvore,NE,é endêmica do Brasil,98,16,729899.590149306,6959809.19852909
+542,39,3285,MELASTOMATACEAE,Tibouchina pulchra Cogn.,Tibouchina pulchra,Quaresmeira,Árvore,NE,é endêmica do Brasil,16,8,729899.590149306,6959809.19852909
+543,39,,Cyatheaceae,Cyathea corcovadensis (Raddi) Domin,Cyathea corcovadensis,Xaxim-de-espinho,Feto arborescente,LC,é endêmica do Brasil,31,2,729899.590149306,6959809.19852909
+544,39,3283,Clusiaceae,Clusia criuva Cambess.,Clusia criuva,Criúva,Arbusto; Árvore,LC,é endêmica do Brasil,25,7,729899.590149306,6959809.19852909
+545,39,3282,FABACEAE,Andira anthelmia (Vell.) Benth.,Andira anthelmia,Andira,Árvore,NE,é endêmica do Brasil,40,9,729899.590149306,6959809.19852909
+546,39,3281,RUBIACEAE,Psychotria vellosiana Benth.,Psychotria vellosiana,Jasmin,Árvore,NE,não é endêmica do Brasil,65,14,729899.590149306,6959809.19852909
+547,39,3280,RUBIACEAE,Psychotria vellosiana Benth.,Psychotria vellosiana,Jasmin,Árvore,NE,não é endêmica do Brasil,16.5,6,729899.590149306,6959809.19852909
+548,39,3290,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,25.5,12,729899.590149306,6959809.19852909
+549,39,3292,MYRTACEAE,Myrcia splendens (Sw.) DC.,Myrcia splendens,Guamirim,Árvore,NE,não é endêmica do Brasil,17,8,729899.590149306,6959809.19852909
+550,39,3219,MYRTACEAE,Myrcia splendens (Sw.) DC.,Myrcia splendens,Guamirim,Árvore,NE,não é endêmica do Brasil,16.5,4,729899.590149306,6959809.19852909
+551,39,3291,RUBIACEAE,Psychotria mapourioides DC.,Psychotria mapourioides,Psicótria,Árvore,NE,é endêmica do Brasil,31,7,729899.590149306,6959809.19852909
+552,39,3209,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,33,12,729899.590149306,6959809.19852909
+553,39,3223,Morta,Morta,Morta,Morta,-,-,-,38,4,729899.590149306,6959809.19852909
+554,39,3207,BIGNONIACEAE,Handroanthus chrysotrichus (Mart. ex DC.) Mattos,Handroanthus chrysotrichus,Ipê-amarelo,Árvore,NE,não é endêmica do Brasil,18,7,729899.590149306,6959809.19852909
+555,39,3220,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,13.5,6,729899.590149306,6959809.19852909
+556,39,3217,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,17,6,729899.590149306,6959809.19852909
+557,39,3216,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,21,14,729899.590149306,6959809.19852909
+558,39,3222,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,23,11,729899.590149306,6959809.19852909
+559,39,3215,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,33,14,729899.590149306,6959809.19852909
+560,39,3225,MYRTACEAE,Psidium cattleianum Sabine,Psidium cattleianum,Araçá,árvore,NE,é endêmica do Brasil,29,11,729899.590149306,6959809.19852909
+561,39,3214,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,24,8,729899.590149306,6959809.19852909
+562,39,3210,MYRTACEAE,Psidium cattleianum Sabine,Psidium cattleianum,Araçá,árvore,NE,é endêmica do Brasil,20,7,729899.590149306,6959809.19852909
+563,39,3218,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,15.5,6,729899.590149306,6959809.19852909
+564,39,3252,RUBIACEAE,Psychotria vellosiana Benth.,Psychotria vellosiana,Jasmin,Árvore,NE,não é endêmica do Brasil,13,4,729899.590149306,6959809.19852909
+565,39,3253,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,19,10,729899.590149306,6959809.19852909
+566,39,3213,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,19,10,729899.590149306,6959809.19852909
+567,39,3212,RUBIACEAE,Psychotria mapourioides DC.,Psychotria mapourioides,Psicótria,Árvore,NE,é endêmica do Brasil,47,11,729899.590149306,6959809.19852909
+568,39,3211,MONIMIACEAE,Mollinedia elegans Tul.,Mollinedia elegans,Pimenta,Arborescente,NE,é endêmica do Brasil,21,6,729899.590149306,6959809.19852909
+569,40,3239,AQUIFOLIACEAE,Ilex theezans Mart. ex Reissek,Ilex theezans,Orelha-de-mico,Árvore,NE,não é endêmica do Brasil,38,14,729847.869138548,6959798.41659665
+570,40,3240,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,17,13,729847.869138548,6959798.41659665
+571,40,3241,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,21,13,729847.869138548,6959798.41659665
+572,40,3242,RUBIACEAE,Psychotria vellosiana Benth.,Psychotria vellosiana,Jasmin,Árvore,NE,não é endêmica do Brasil,18,5,729847.869138548,6959798.41659665
+573,40,3245,AQUIFOLIACEAE,Ilex theezans Mart. ex Reissek,Ilex theezans,Orelha-de-mico,Árvore,NE,não é endêmica do Brasil,26,13,729847.869138548,6959798.41659665
+574,40,3243,MYRTACEAE,Myrcia splendens (Sw.) DC.,Myrcia splendens,Guamirim,Árvore,NE,não é endêmica do Brasil,13,11,729847.869138548,6959798.41659665
+575,40,3251,MELASTOMATACEAE,Tibouchina pulchra Cogn.,Tibouchina pulchra,Quaresmeira,Árvore,NE,é endêmica do Brasil,57,9,729847.869138548,6959798.41659665
+576,40,3238,BIGNONIACEAE,Jacaranda puberula Cham.,Jacaranda puberula,Caroba,Árvore,LC,é endêmica do Brasil,14.5,4,729847.869138548,6959798.41659665
+577,40,3237,AQUIFOLIACEAE,Ilex theezans Mart. ex Reissek,Ilex theezans,Orelha-de-mico,Árvore,NE,não é endêmica do Brasil,31,13,729847.869138548,6959798.41659665
+578,40,3235,BIGNONIACEAE,Jacaranda puberula Cham.,Jacaranda puberula,Caroba,Árvore,LC,é endêmica do Brasil,16,7,729847.869138548,6959798.41659665
+579,40,3234,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,14.5,7,729847.869138548,6959798.41659665
+580,40,3232,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,13,7,729847.869138548,6959798.41659665
+581,40,3233,MYRTACEAE,Myrcia splendens (Sw.) DC.,Myrcia splendens,Guamirim,Árvore,NE,não é endêmica do Brasil,16,7,729847.869138548,6959798.41659665
+582,40,3230,MELASTOMATACEAE,Miconia cinerascens Miq.,Miconia cinerascens,Pixirica,Árvore,NE,não é endêmica do Brasil,21,7,729847.869138548,6959798.41659665
+583,40,3229,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,23,9,729847.869138548,6959798.41659665
+584,40,3228,BIGNONIACEAE,Jacaranda puberula Cham.,Jacaranda puberula,Caroba,Árvore,LC,é endêmica do Brasil,23.5,12,729847.869138548,6959798.41659665
+585,40,3226,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,15,7,729847.869138548,6959798.41659665
+586,40,3227,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,19,7,729847.869138548,6959798.41659665
+587,40,3224,ASTERACEAE,Piptocarpha axillaris (Less.) Baker,Piptocarpha axillaris,Vassourão-cambará,Árvore,NE,é endêmica do Brasil,61,17,729847.869138548,6959798.41659665
+588,40,3186,LAURACEAE,Ocotea pulchella (Nees & Mart.) Mez,Ocotea pulchella,Canela-lageana,árvore,LC,não é endêmica do Brasil,15,5,729847.869138548,6959798.41659665
+589,40,3187,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,21,13,729847.869138548,6959798.41659665
+590,40,3188,AQUIFOLIACEAE,Ilex theezans Mart. ex Reissek,Ilex theezans,Orelha-de-mico,Árvore,NE,não é endêmica do Brasil,16,9,729847.869138548,6959798.41659665
+591,40,3189,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,31,12,729847.869138548,6959798.41659665
+592,40,3185,BIGNONIACEAE,Jacaranda puberula Cham.,Jacaranda puberula,Caroba,Árvore,LC,é endêmica do Brasil,24,9,729847.869138548,6959798.41659665
+593,40,3294,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,24,13,729847.869138548,6959798.41659665
+594,40,3249,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,20,9,729847.869138548,6959798.41659665
+595,40,3250,BIGNONIACEAE,Jacaranda puberula Cham.,Jacaranda puberula,Caroba,Árvore,LC,é endêmica do Brasil,16.5,8,729847.869138548,6959798.41659665
+596,40,3247,MELASTOMATACEAE,Miconia cinnamomifolia (DC.) Naudin,Miconia cinnamomifolia,Pixiricão,Árvore,NE,é endêmica do Brasil,23,7,729847.869138548,6959798.41659665
+597,40,3244,BIGNONIACEAE,Jacaranda puberula Cham.,Jacaranda puberula,Caroba,Árvore,LC,é endêmica do Brasil,21,9,729847.869138548,6959798.41659665
+598,40,3246,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,23,9,729847.869138548,6959798.41659665
+599,41,3193,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,25,8,729861.626370361,6959836.01696883
+600,41,3196,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,54,14,729861.626370361,6959836.01696883
+601,41,3197,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,32,9,729861.626370361,6959836.01696883
+602,41,3198,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,23,10,729861.626370361,6959836.01696883
+603,41,3199,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,18.5,8,729861.626370361,6959836.01696883
+604,41,3200,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,48,15,729861.626370361,6959836.01696883
+605,41,3194,MYRTACEAE,Psidium cattleianum Sabine,Psidium cattleianum,Araçá,árvore,NE,é endêmica do Brasil,33,15,729861.626370361,6959836.01696883
+606,41,3202,RUBIACEAE,Psychotria mapourioides DC.,Psychotria mapourioides,Psicótria,Árvore,NE,é endêmica do Brasil,43,17,729861.626370361,6959836.01696883
+607,41,3201,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,35,13,729861.626370361,6959836.01696883
+608,41,3204,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,30,12,729861.626370361,6959836.01696883
+609,41,3248,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,51,17,729861.626370361,6959836.01696883
+610,41,3190,MYRTACEAE,Eugenia sp.,Eugenia sp.,Guamirim,-,-,-,15,7,729861.626370361,6959836.01696883
+611,41,3203,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,16,7,729861.626370361,6959836.01696883
+612,41,3180,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,23,13,729861.626370361,6959836.01696883
+613,41,3179,FABACEAE,Parapiptadenia rigida (Benth.) Brenan,Parapiptadenia rigida,Angico-vermelho,árvore,NE,não é endêmica do Brasil,35,14,729861.626370361,6959836.01696883
+614,41,3181,MYRTACEAE,Eugenia sp.,Eugenia sp.,Guamirim,-,-,-,17.5,7,729861.626370361,6959836.01696883
+615,41,3183,BIGNONIACEAE,Handroanthus chrysotrichus (Mart. ex DC.) Mattos,Handroanthus chrysotrichus,Ipê-amarelo,Árvore,NE,não é endêmica do Brasil,20,8,729861.626370361,6959836.01696883
+616,41,3182,MYRTACEAE,Myrcia sp.,Myrcia sp.,Guamirim,-,-,-,13,7,729861.626370361,6959836.01696883
+617,41,3192,LAURACEAE,Ocotea pulchella (Nees & Mart.) Mez,Ocotea pulchella,Canela-lageana,árvore,LC,não é endêmica do Brasil,23,12,729861.626370361,6959836.01696883
+618,41,3184,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,37,14,729861.626370361,6959836.01696883
+619,41,3230,RUBIACEAE,Psychotria nuda (Cham. & Schltdl.) Wawra,Psychotria nuda,Flor-de-cera,Arbusto,NE,é endêmica do Brasil,18,5,729861.626370361,6959836.01696883
+620,41,3191,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,20.5,12,729861.626370361,6959836.01696883
+621,41,3206,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,34,14,729861.626370361,6959836.01696883
+622,41,3205,SAPINDACEAE,Matayba guianensis Aubl.,Matayba guianensis,Camboatá,Árvore,NE,não é endêmica do Brasil,61,16,729861.626370361,6959836.01696883
+623,42,3178,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,20,9,729918.5459266,6959836.61333241
+624,42,3137,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,30.5,14,729918.5459266,6959836.61333241
+625,42,3177,ASTERACEAE,Piptocarpha axillaris (Less.) Baker,Piptocarpha axillaris,Vassourão-cambará,Árvore,NE,é endêmica do Brasil,26,9,729918.5459266,6959836.61333241
+626,42,3139,BIGNONIACEAE,Jacaranda puberula Cham.,Jacaranda puberula,Caroba,Árvore,LC,é endêmica do Brasil,20,9,729918.5459266,6959836.61333241
+627,42,3172,EUPHORBIACEAE,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia,Tanheiro,Árvore,NE,não é endêmica do Brasil,31,11,729918.5459266,6959836.61333241
+628,42,3176,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,19,8,729918.5459266,6959836.61333241
+629,42,3173,Clusiaceae,Clusia criuva Cambess.,Clusia criuva,Criúva,Arbusto; Árvore,LC,é endêmica do Brasil,20,8,729918.5459266,6959836.61333241
+630,42,3175,AQUIFOLIACEAE,Ilex theezans Mart. ex Reissek,Ilex theezans,Orelha-de-mico,Árvore,NE,não é endêmica do Brasil,16.5,9,729918.5459266,6959836.61333241
+631,42,3167,AQUIFOLIACEAE,Ilex theezans Mart. ex Reissek,Ilex theezans,Orelha-de-mico,Árvore,NE,não é endêmica do Brasil,23,9,729918.5459266,6959836.61333241
+632,42,3174,ASTERACEAE,Piptocarpha axillaris (Less.) Baker,Piptocarpha axillaris,Vassourão-cambará,Árvore,NE,é endêmica do Brasil,44,13,729918.5459266,6959836.61333241
+633,42,3168,ASTERACEAE,Piptocarpha axillaris (Less.) Baker,Piptocarpha axillaris,Vassourão-cambará,Árvore,NE,é endêmica do Brasil,67,15,729918.5459266,6959836.61333241
+634,42,3171,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,25,10,729918.5459266,6959836.61333241
+635,42,3169,Clusiaceae,Clusia criuva Cambess.,Clusia criuva,Criúva,Arbusto; Árvore,LC,é endêmica do Brasil,14,8,729918.5459266,6959836.61333241
+636,42,3170,BIGNONIACEAE,Jacaranda puberula Cham.,Jacaranda puberula,Caroba,Árvore,LC,é endêmica do Brasil,16,6,729918.5459266,6959836.61333241
+637,42,3158,MELASTOMATACEAE,Tibouchina pulchra Cogn.,Tibouchina pulchra,Quaresmeira,Árvore,NE,é endêmica do Brasil,20,8,729918.5459266,6959836.61333241
+638,42,3166,BIGNONIACEAE,Jacaranda puberula Cham.,Jacaranda puberula,Caroba,Árvore,LC,é endêmica do Brasil,15,7,729918.5459266,6959836.61333241
+639,42,3165,AQUIFOLIACEAE,Ilex theezans Mart. ex Reissek,Ilex theezans,Orelha-de-mico,Árvore,NE,não é endêmica do Brasil,25,8,729918.5459266,6959836.61333241
+640,42,3164,NYCTAGINACEAE,Guapira opposita (Vell.) Reitz,Guapira opposita,Maria-mole,Árvore,NE,não é endêmica do Brasil,20,6,729918.5459266,6959836.61333241
+641,42,3154,Clusiaceae,Clusia criuva Cambess.,Clusia criuva,Criúva,Arbusto; Árvore,LC,é endêmica do Brasil,33,13,729918.5459266,6959836.61333241
+642,42,3156,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,29,13,729918.5459266,6959836.61333241
+643,42,3155,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,27,13,729918.5459266,6959836.61333241
+644,42,3157,Clusiaceae,Clusia criuva Cambess.,Clusia criuva,Criúva,Arbusto; Árvore,LC,é endêmica do Brasil,52,13,729918.5459266,6959836.61333241
+645,42,3161,LAURACEAE,Ocotea pulchella (Nees & Mart.) Mez,Ocotea pulchella,Canela-lageana,árvore,LC,não é endêmica do Brasil,14,6,729918.5459266,6959836.61333241
+646,42,3151,MYRTACEAE,Psidium cattleianum Sabine,Psidium cattleianum,Araçá,árvore,NE,é endêmica do Brasil,10,8,729918.5459266,6959836.61333241
+647,42,3149,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,26.5,13,729918.5459266,6959836.61333241
+648,42,3148,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,27,12,729918.5459266,6959836.61333241
+649,42,3150,MYRTACEAE,Psidium cattleianum Sabine,Psidium cattleianum,Araçá,árvore,NE,é endêmica do Brasil,27,10,729918.5459266,6959836.61333241
+650,42,3152,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,18,9,729918.5459266,6959836.61333241
+651,42,3153,Clusiaceae,Clusia criuva Cambess.,Clusia criuva,Criúva,Arbusto; Árvore,LC,é endêmica do Brasil,31,14,729918.5459266,6959836.61333241
+652,42,3147,BIGNONIACEAE,Jacaranda puberula Cham.,Jacaranda puberula,Caroba,Árvore,LC,é endêmica do Brasil,14,7,729918.5459266,6959836.61333241
+653,42,3146,Clusiaceae,Clusia criuva Cambess.,Clusia criuva,Criúva,Arbusto; Árvore,LC,é endêmica do Brasil,22,11,729918.5459266,6959836.61333241
+654,42,3145,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,28,12,729918.5459266,6959836.61333241
+655,42,3141,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,19,7,729918.5459266,6959836.61333241
+656,42,3140,MYRTACEAE,Myrceugenia euosma (O.Berg) D.Legrand,Myrceugenia euosma,Guamirim,Árvore,NE,é endêmica do Brasil,22,13,729918.5459266,6959836.61333241
+657,42,3142,BIGNONIACEAE,Jacaranda puberula Cham.,Jacaranda puberula,Caroba,Árvore,LC,é endêmica do Brasil,19,8,729918.5459266,6959836.61333241
+658,42,3143,Peraceae,Pera glabrata (Schott) Poepp. ex Baill.,Pera glabrata,Tabocuva,Árvore,NE,não é endêmica do Brasil,13,7,729918.5459266,6959836.61333241
+659,42,3144,MYRTACEAE,Eugenia uniflora L.,Eugenia uniflora,Pitangueira,Árvore,NE,não é endêmica do Brasil,25,5,729918.5459266,6959836.61333241
